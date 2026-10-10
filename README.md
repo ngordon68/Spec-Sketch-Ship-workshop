@@ -195,8 +195,7 @@ You'll leave with a wireframe, a written build plan, and the first working versi
 
 **Other tools**
 - Git for Windows: https://git-scm.com/downloads/win
-- [FILL IN: your default IDE/platform download link]
-- [FILL IN: DevsCreate313 links, community channel, upcoming events]
+
 
 ---
 
