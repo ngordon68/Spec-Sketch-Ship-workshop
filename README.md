@@ -170,5 +170,3 @@ You'll leave with a wireframe, a written build plan, and the first working versi
 
 
 ---
-
-*Questions before the event: [FILL IN: contact]*
