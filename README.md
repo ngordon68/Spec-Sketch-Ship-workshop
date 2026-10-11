@@ -134,26 +134,6 @@ If you see `command not found` or `not recognized`, go to the Troubleshooting se
    ```
 6. To exit Claude Code, type `/exit` or press **Ctrl + C** twice.
 
-[FILL IN: A starter prompt you want everyone to run so you can confirm setup at check-in.]
-
----
-
-## Troubleshooting
-
-| What you see | What it means | What to do |
-|---|---|---|
-| `command not found: claude` or `'claude' is not recognized` | The terminal can't find Claude Code yet | Close the terminal and open a new one. If it still fails, see the install troubleshooting link below. |
-| `The token '&&' is not a valid statement separator` | You ran the CMD command in PowerShell | Use the PowerShell command instead. |
-| `'irm' is not recognized` | You ran the PowerShell command in CMD | Use the CMD command, or open PowerShell. |
-| `syntax error near unexpected token '<'` or a `403` error | The download was blocked or failed | Check your internet connection, then see the install troubleshooting link. |
-| Login says you don't have access | Your account is on the free plan | See "Which plan do you need?" in Part 1. |
-| [FILL IN: an issue you've seen at past workshops] | [FILL IN] | [FILL IN] |
-
-For a full health check, run:
-```bash
-claude doctor
-```
-
 Official install troubleshooting: https://code.claude.com/docs/en/troubleshoot-install
 
 ---
