@@ -1,10 +1,8 @@
 # Build Night Setup: Claude and Claude Code
 
-This guide gets your computer ready for **[FILL IN: workshop name]** on **[FILL IN: date]**, 6:00–8:30 PM at **[FILL IN: location]**.
+This guide gets your computer ready for BuildNight on October 15th, 5:30 PM–8:30 PM at Tech Town Detroit.
 
 Please finish Parts 1–4 **before** you arrive. Setup problems are much easier to fix at home than in a room of 30 people sharing Wi-Fi.
-
-If you get stuck, contact **[FILL IN: name / email / Discord or Slack channel]** before **[FILL IN: deadline, e.g. Thursday 5 PM]**.
 
 ---
 
@@ -17,8 +15,6 @@ If you get stuck, contact **[FILL IN: name / email / Discord or Slack channel]**
 - At least 4 GB of RAM
 - A charger (bring it to the workshop)
 - An email address you can check during setup
-
-**About Chromebooks and tablets:** [FILL IN: whether these are supported at your event, or what attendees should do instead]
 
 ---
 
@@ -33,7 +29,7 @@ If you get stuck, contact **[FILL IN: name / email / Discord or Slack channel]**
 | What you want to do | Free plan | Pro plan or higher |
 |---|---|---|
 | Chat with Claude, ideate, get feedback | Yes | Yes |
-| Claude Design (wireframes) | [FILL IN] | [FILL IN] |
+| Claude Design (wireframes) |Yes | Yes |
 | Claude Code in the terminal | **No** | Yes |
 
 The free claude.ai plan does **not** include Claude Code. Claude Code requires a Pro, Max, Team, Enterprise, or Console account.
