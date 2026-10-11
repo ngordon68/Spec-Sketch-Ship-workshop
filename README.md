@@ -32,10 +32,6 @@ Please finish Parts 1–4 **before** you arrive. Setup problems are much easier 
 | Claude Design (wireframes) |Yes | Yes |
 | Claude Code in the terminal | **No** | Yes |
 
-The free claude.ai plan does **not** include Claude Code. Claude Code requires a Pro, Max, Team, Enterprise, or Console account.
-
-[FILL IN: How you're handling this for attendees. For example: "We are providing access codes at check-in," "You'll need Pro for Stage 4," or "Free-plan attendees will build in the browser instead of the terminal."]
-
 ---
 
 ## Part 2: Install the Claude app (optional but recommended)
