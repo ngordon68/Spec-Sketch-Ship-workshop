@@ -148,8 +148,6 @@ Official install troubleshooting: https://code.claude.com/docs/en/troubleshoot-i
 
 You'll leave with a wireframe, a written build plan, and the first working version of your project.
 
-**Come with:** [FILL IN: e.g. one idea or problem you care about, a charged laptop, Claude logged in]
-
 ---
 
 ## Resources
