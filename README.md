@@ -4,6 +4,8 @@ This guide gets your computer ready for BuildNight on October 15th, 5:30 PM–8:
 
 Please finish Parts 1–4 **before** you arrive. Setup problems are much easier to fix at home than in a room of 30 people sharing Wi-Fi.
 
+> 📄 [**Open the Idea to First Version Workbook (PDF)**](./Idea-to-First-Version-Workbook.pdf)
+
 ---
 
 ## What you need
