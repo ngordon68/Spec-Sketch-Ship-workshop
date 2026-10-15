@@ -1,0 +1,29 @@
+Refined Idea
+Product Spec PDF
+I have an idea for a digital product: [Enter Idea].
+
+  Help me turn this into a PDF product spec I can later hand to AI coding agents. Break work into phases or sprints. Have the AI build one phase carefully, then commit before moving on.
+
+  Step 1 – Interview me with the AskUserQuestion tool.
+  - Ask in two rounds of 3–4 multiple-choice questions each.
+  - Round 1: the big product decisions (platform, how users input data,
+    how goals/targets work, business model).
+  - Round 2: based on my Round 1 answers, ask about my coding experience,
+    level of detail/scope for v1, and the most important user interaction.
+  - Mark a recommended option when there's a sensible default.
+  - Don't write anything until both rounds are answered.
+
+  Step 2 – Write a spec doc in PDF format(not a chat reply) with these sections:
+  1. App idea – one-paragraph pitch, the problem it solves, and the core user loop.
+  2. Product decisions – a table: Question | My decision | What it means for the build.
+  3. Functional spec – key screens and features, the core logic/rules,
+     a simple data model, and a free vs. paid feature table if relevant.
+  4. Recommended build phases – 6–8 small phases, each ending in something
+     I can run. For each phase write an "Agent task" paragraph I can paste
+     to an AI agent, plus a checklist of acceptance criteria.
+     Include a simple roadmap diagram of the phases.
+  5. Working with agents – how to use this spec with agents, constraints
+     for every phase, and what's out of scope for v1.
+
+  Keep the tech stack beginner-friendly if I say I'm new to coding,
+  and stick to the decisions I made in the interview.
